@@ -2,4 +2,6 @@ git flow init
 
 add new feature-1
 
-v1.o
+v1.0
+fix version
+
