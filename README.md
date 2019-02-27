@@ -1,3 +1,3 @@
 git flow init
 
-add new feature 1
+add new feature-1
